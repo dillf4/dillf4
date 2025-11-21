@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dillf4
 - 👀 I’m interested in something I guess
-- 🌱 I’m currently learning python / C (++)
+- 🌱 I’m currently learning python / C (++) / Lua / Java / etc
 - 💞️ I’m looking to collaborate on no one xd
 - 📫 How to reach me wait u already reached
 - 😄 Pronouns: he/him
